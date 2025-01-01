@@ -14,8 +14,8 @@ local Players = game:GetService("Players")
 local player = Players.LocalPlayer
 
 -- Tùy chỉnh tọa độ
-local teleportPosition = Vector3.new(-5073.83, 314.51, -3152.52) -- Tọa độ teleport
-local lungeTargetPosition = Vector3.new(3047.35, 2279.67, -7303.92) -- Tọa độ lướt
+local teleportPosition = Vector3.new(28286.36, 14896.56, 102.62) -- Tọa độ teleport
+local lungeTargetPosition = Vector3.new(28388.48, 14903.01, 104.86) -- Tọa độ lướt
 
 -- Tốc độ lướt
 local lungeSpeed = 300 -- Tốc độ lướt (cao = nhanh)
